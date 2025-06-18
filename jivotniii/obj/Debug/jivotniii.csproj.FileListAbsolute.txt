@@ -1,0 +1,7 @@
+C:\Users\plams\source\repos\jivotniii\jivotniii\bin\Debug\jivotniii.exe.config
+C:\Users\plams\source\repos\jivotniii\jivotniii\bin\Debug\jivotniii.exe
+C:\Users\plams\source\repos\jivotniii\jivotniii\bin\Debug\jivotniii.pdb
+C:\Users\plams\source\repos\jivotniii\jivotniii\obj\Debug\jivotniii.csproj.AssemblyReference.cache
+C:\Users\plams\source\repos\jivotniii\jivotniii\obj\Debug\jivotniii.csproj.CoreCompileInputs.cache
+C:\Users\plams\source\repos\jivotniii\jivotniii\obj\Debug\jivotniii.exe
+C:\Users\plams\source\repos\jivotniii\jivotniii\obj\Debug\jivotniii.pdb
